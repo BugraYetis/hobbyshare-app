@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 HobbyShare
+# 🎨 HobbyShare
 
 **Mobil Uygulama · Hobi Odaklı Sosyalleşme Uygulaması**
 
